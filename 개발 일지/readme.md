@@ -1,7 +1,7 @@
 # 한국어 번역 모델 toy project
 
 - [Ai hub의 기계독해 데이터 사용(한-영 번역)](https://aihub.or.kr/aidata/86)
-- 참고 블로그 및 github
+# Reference
     - https://codlingual.tistory.com/91
     - https://github.com/graykode/nlp-tutorial
     - https://github.com/ndb796
